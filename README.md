@@ -10,7 +10,8 @@ I’m a passionate software developer with experience in building Minecraft plug
 - API Design and Development
 
 🚀 Currently working on:
-- Rebuilding my [MystTools Discord Bot & Rank Examiner](future repo)
+- Rebuilding my [MystTools Bot](#)
+- Rebuilding my [Rank Examiner Bot](#)
 - Creating an updated portfolio which accuratly represents my skill. 
 
 Feel free to browse my repositories and check out my projects!
